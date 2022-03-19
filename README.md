@@ -7,9 +7,9 @@ The goal of this analysis is to create a webpage with a dynamic table that shows
 ## Results
 Previously, the webpage included only a date filter in which users needed to click on a button for the filter to be applied. With the new updated version, users will be able to filter data, simply by inputting a criteria into one of the filter fields. The webpage will then automatically filter the table to display relevant data. The first image ilustrates the table without filters. Users can see the type of format that is required for the filter to function in the text box. Upon input, the table will automatically filter the results accordingly.
 
-![unfiltered_table]()
+![unfiltered_table](https://github.com/Zhengyu0913/UFOs/blob/main/Resources/table1.png)
 
-![filtered_table]()
+![filtered_table](https://github.com/Zhengyu0913/UFOs/blob/main/Resources/table2.png)
 
 ## Summary of Analysis
 One drawback of this webpage is that it is currently unable to resize in relation to the device it is viewed on. Some portion of the webpage, such as the image, is able to resize if the user magnifies the webpage, however, the webpage as a whole is unable to do so. Thus, one recommendation for further development would be to add formatting that readjusts the sections and margins when the page is viewed on a mobile device or tablet. 
